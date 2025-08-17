@@ -27,10 +27,9 @@ export default function Hero() {
           Explore Projects
         </a>
 
-        <a href="src/components/amlan.pdf" className="px-6 py-2 border rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors">
-          View Resume
-        </a>
-
+<a href="/amlan.pdf" className="px-6 py-2 border rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" target="_blank" rel="noopener noreferrer">
+  View Resume
+</a>
         <a href="https://github.com/amlanprateek7077" target="_blank" rel="noopener noreferrer"
            className="flex items-center gap-2 px-6 py-2 bg-gray-800 text-white rounded-lg shadow-md hover:bg-gray-900 transition-colors">
           <FaGithub className="text-xl" />

@@ -29,7 +29,7 @@ const projects = [
     demo: "https://weather-demo.com",
   },
   {
-    title: "Task Manager",
+    title: "Task Manager App",
     description:
       "A productivity app with task lists, deadlines, and progress tracking.",
     link: "https://github.com/amlan/task-manager",

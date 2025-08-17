@@ -7,7 +7,14 @@ const projects = [
     demo: "https://portpolio-website-react.vercel.app/",
   },
   
-  
+  {
+    title: "E-commerce Store",
+    description:
+      "React + Stripe powered online store with product filtering and checkout flow.",
+    link: "https://github.com/amlanprateek7077/AnviHaus---A-Complete-E-commerce-Website",
+    demo: "https://anvihaus-a-complete-e-commerce-website.onrender.com/",
+  }, 
+
   {
     title: "EduWeb App",
     description:
@@ -38,13 +45,7 @@ const projects = [
     demo: "https://weather-demo.com",
   },
  
-  {
-    title: "E-commerce Store",
-    description:
-      "React + Stripe powered online store with product filtering and checkout flow.",
-    link: "https://github.com/amlan/ecommerce",
-    demo: "https://ecommerce-demo.com",
-  },
+  
 ];
 
 export default function Projects() {

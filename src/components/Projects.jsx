@@ -1,5 +1,14 @@
 const projects = [
   {
+    title: " Portfolio Website",
+    description:
+      "A personal portfolio website showcasing my skills, projects, and experience with a modern design.",
+    link: "https://github.com/amlanprateek7077/Portpolio-Website-React",
+    demo: "https://portpolio-website-react.vercel.app/",
+  },
+  
+  
+  {
     title: "EduWeb App",
     description:
       "A full-stack education platform with student/teacher dashboards, authentication, and real-time collaboration.",
@@ -28,13 +37,7 @@ const projects = [
     link: "https://github.com/amlan/weather-dashboard",
     demo: "https://weather-demo.com",
   },
-  {
-    title: "Task Manager App",
-    description:
-      "A productivity app with task lists, deadlines, and progress tracking.",
-    link: "https://github.com/amlan/task-manager",
-    demo: "https://task-demo.com",
-  },
+ 
   {
     title: "E-commerce Store",
     description:

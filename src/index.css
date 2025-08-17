@@ -1,0 +1,12 @@
+/* index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  color-scheme: dark; /* browser ke default controls bhi dark dikhayega */
+}
+
+body {
+  @apply bg-gray-900 text-white;
+}

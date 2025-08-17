@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { FaGithub } from "react-icons/fa";
+import resume from "../../src/public/amlan.pdf";
 
 export default function Hero() {
   return (
@@ -27,7 +28,7 @@ export default function Hero() {
           Explore Projects
         </a>
 
-<a href="/amlan.pdf" className="px-6 py-2 border rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" target="_blank" rel="noopener noreferrer">
+<a href={resume} className="px-6 py-2 border rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors" target="_blank" rel="noopener noreferrer">
   View Resume
 </a>
         <a href="https://github.com/amlanprateek7077" target="_blank" rel="noopener noreferrer"

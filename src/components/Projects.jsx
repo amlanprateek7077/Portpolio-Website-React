@@ -1,10 +1,10 @@
 const projects = [
   {
-    title: " Portfolio Website",
+    title: "ANVI-A Movie Ticket Booking Site",
     description:
-      "A personal portfolio website showcasing my skills, projects, and experience with a modern design.",
-    link: "https://github.com/amlanprateek7077/Portpolio-Website-React",
-    demo: "https://portpolio-website-react.vercel.app/",
+      "Book your favorite movie tickets instantly with a seamless online experience. Browse showtimes, choose seats, and enjoy hassle-free booking at your fingertips.",
+    link: "https://github.com/amlanprateek7077/Anvi-A-Movie-ticket-Booking-Site-",
+    demo: "https://anvi-a-movie-ticket-booking-site.vercel.app/",
   },
   
   {
@@ -20,7 +20,7 @@ const projects = [
     description:
       "A full-stack education platform with student/teacher dashboards, authentication, and real-time collaboration.",
     link: "https://github.com/amlanprateek7077/EDUWEB",
-    demo: "https://eduweb-demo.com",
+    demo: "https://under-construction-404.netlify.app/",
   },
   {
     title: "HR e-Leave Tracking Web Application integrating TOTP-based authentication.",

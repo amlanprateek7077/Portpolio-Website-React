@@ -3,8 +3,8 @@ const projects = [
     title: "ANVI-A Movie Ticket Booking Site",
     description:
       "Book your favorite movie tickets instantly with a seamless online experience. Browse showtimes, choose seats, and enjoy hassle-free booking at your fingertips.",
-    link: "https://github.com/amlanprateek7077/Anvi-A-Movie-ticket-Booking-Site-",
-    demo: "https://anvi-a-movie-ticket-booking-site.vercel.app/",
+    link: "https://github.com/amlanprateek7077/Anvi-The-Movie-ticket-Booking-Site-",
+    demo: "https://anvi-the-movie-ticket-booking-site.vercel.app/",
   },
   
   {
